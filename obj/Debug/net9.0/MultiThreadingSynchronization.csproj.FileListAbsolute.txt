@@ -1,0 +1,14 @@
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\bin\Debug\net9.0\MultiThreadingSynchronization.exe
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\bin\Debug\net9.0\MultiThreadingSynchronization.deps.json
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\bin\Debug\net9.0\MultiThreadingSynchronization.runtimeconfig.json
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\bin\Debug\net9.0\MultiThreadingSynchronization.dll
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\bin\Debug\net9.0\MultiThreadingSynchronization.pdb
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\obj\Debug\net9.0\MultiThreadingSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\obj\Debug\net9.0\MultiThreadingSynchronization.AssemblyInfoInputs.cache
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\obj\Debug\net9.0\MultiThreadingSynchronization.AssemblyInfo.cs
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\obj\Debug\net9.0\MultiThreadingSynchronization.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\obj\Debug\net9.0\MultiThreadingSynchronization.dll
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\obj\Debug\net9.0\refint\MultiThreadingSynchronization.dll
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\obj\Debug\net9.0\MultiThreadingSynchronization.pdb
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\obj\Debug\net9.0\MultiThreadingSynchronization.genruntimeconfig.cache
+C:\Users\Marcelo\OneDrive\Área de Trabalho\Workspace\MultiThreadingSynchronization\obj\Debug\net9.0\ref\MultiThreadingSynchronization.dll
